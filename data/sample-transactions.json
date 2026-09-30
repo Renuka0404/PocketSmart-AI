@@ -1,0 +1,7 @@
+{
+  "transactions": [
+    {"merchant": "Whole Foods Market", "category": "Groceries", "amount": 86.42, "date": "2026-09-14", "account": "Everyday checking", "status": "Completed"},
+    {"merchant": "Blue Bottle Coffee", "category": "Dining out", "amount": 12.5, "date": "2026-09-14", "account": "Credit card", "status": "Completed"},
+    {"merchant": "Monthly rent", "category": "Housing", "amount": 1450, "date": "2026-09-01", "account": "Everyday checking", "status": "Completed"}
+  ]
+}
